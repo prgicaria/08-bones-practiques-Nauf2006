@@ -6,5 +6,5 @@ quotient = dividend // divisor
 Residu = dividend % divisor
 
 print(f"Divisió: {dividend}/{divisor}")
-print(f"Quotient: {quotient}")
+print(f"Quocient: {quotient}")
 print(f"Residu: {Residu}")
